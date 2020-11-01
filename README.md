@@ -1,1 +1,2 @@
 # SymulatorMilosci
+# DamianStrzelczyk
