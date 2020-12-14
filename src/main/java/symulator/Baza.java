@@ -31,9 +31,14 @@ public class Baza {
     public String hiberante(Model model){
         return "milosc/Hibernate";
     }
+
     @GetMapping(value = "/C_School")
     public String CSchool(Model model){
         return "milosc/C_School";
+    }
+    @GetMapping(value = "/Udemy")
+    public String Udemy(Model model){
+        return "milosc/Udemy";
     }
 
 }
