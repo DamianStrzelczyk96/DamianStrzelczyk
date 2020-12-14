@@ -13,6 +13,7 @@ public class Baza {
         return "milosc/index";
     }
 
+
     @PostMapping(value = "/usun")
     public String addCar(Model model, @RequestParam(value = "fname") String fname) {
         System.out.println(fname);
