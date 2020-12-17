@@ -41,5 +41,9 @@ public class Baza {
     public String Udemy(Model model){
         return "milosc/Udemy";
     }
+    @GetMapping(value = "/JUnit")
+    public String JUnit(Model model){
+        return "milosc/JUnit";
+    }
 
 }
