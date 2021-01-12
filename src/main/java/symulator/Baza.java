@@ -45,5 +45,10 @@ public class Baza {
     public String JUnit(Model model){
         return "milosc/JUnit";
     }
+    @GetMapping(value = "/Wzorce")
+    public String Wzorce(Model model){
+        return "milosc/Wzorce";
+    }
+
 
 }
