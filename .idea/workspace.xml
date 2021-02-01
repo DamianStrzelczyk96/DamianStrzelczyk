@@ -22,8 +22,17 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32ccb46f-2dc0-4d78-9fa5-0432913310d9" name="Default Changelist" comment="JUnit">
+    <list default="true" id="32ccb46f-2dc0-4d78-9fa5-0432913310d9" name="Default Changelist" comment="Wzorce">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/images/Me.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/milosc/projekty.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/symulator/Baza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/symulator/Baza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/milosc/JUnit.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/milosc/JUnit.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/milosc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/milosc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/milosc/milosc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/symulator/Baza.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/symulator/Baza.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/milosc/certyfikaty.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/milosc/certyfikaty.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/templates/milosc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/templates/milosc/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,11 +58,15 @@
     </option>
   </component>
   <component name="ProjectId" id="1dB1pfugY5Mxp8N34e5ke7AwSmC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -66,23 +79,23 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/static/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Damianek\Desktop\Projekty IntelJ\Symulator\src\main\resources\static\images" />
-      <recent name="C:\Users\Damianek\Desktop\Projekty IntelJ\Symulator\src\main\resources\templates\static\images" />
-      <recent name="C:\Users\Damianek\Desktop\Symulator\src\main\resources" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Damianek\Desktop\Projekty IntelJ\Symulator\src\main\resources\static" />
       <recent name="C:\Users\Damianek\Desktop\Projekty IntelJ\Symulator\src\main\resources" />
       <recent name="C:\Users\Damianek\Desktop\Symulator\src\main\resources\template\milosc" />
       <recent name="C:\Users\Damianek\Desktop\Symulator\src\main\resources\template" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Damianek\Desktop\Projekty IntelJ\Symulator\src\main\resources\static\images" />
+      <recent name="C:\Users\Damianek\Desktop\Projekty IntelJ\Symulator\src\main\resources\templates\static\images" />
+      <recent name="C:\Users\Damianek\Desktop\Symulator\src\main\resources" />
     </key>
   </component>
   <component name="RunManager" selected="Application.StartApp">
@@ -166,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608246805175</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Wzorce">
+      <created>1610488351295</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1610488351295</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,50 +205,52 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Damian Strzelczyk" />
     <MESSAGE value="Udemy Spring Cloud" />
     <MESSAGE value="Udemy Spring Cloud 2" />
     <MESSAGE value="JUnit" />
-    <option name="LAST_COMMIT_MESSAGE" value="JUnit" />
+    <MESSAGE value="Wzorce" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wzorce" />
   </component>
   <component name="WindowStateProjectService">
     <state x="249" y="0" key="#Project_Structure" timestamp="1604235885446">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="249" y="0" key="#Project_Structure/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604235885446" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1605637493526">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1610797617867">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604236453618" />
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605637493526" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1605637408124">
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1610797617867" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1612216474311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604244423501" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605637408124" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1605637408124">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612216474311" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1612216474306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604244423501" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605637408124" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1605637408124">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612216474306" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1612216474306">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604244423501" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605637408124" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1605637408124">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612216474306" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1612216474311">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604244423501" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605637408124" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612216474311" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1604244154242">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604244154242" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1608246811516">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1610488354747">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604244452807" />
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1608246811516" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1610488354747" />
   </component>
 </project>
